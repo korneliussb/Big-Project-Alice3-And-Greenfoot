@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Objek
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Objek\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ atWorldEdge()
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+comment2.text=\r\n\ true\ bila\ kita\ dapat\ melihat\ objek\ 'clss'\ class\ dari\ Object\r\n\ false\ bila\ tidak\ ada\ object\r\n
+comment3.params=clss
+comment3.target=void\ eat(java.lang.Class)
+comment3.text=\r\n\ Method\ untuk\ memakan\ objek\ dari\ kelas\ 'clss'.\ Method\ 'eat'\ akan\ dilakukan\ bila\r\n\ objek\ yang\ dimaksud\ ada.\ Selain\ objek\ tersebut,\ method\ tidak\ dilakukan\r\n
+numComments=4
